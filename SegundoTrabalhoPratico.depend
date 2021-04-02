@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1616588651 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"entradaSaida.h"
+	"cliente.h"
+	"vendedor.h"
+	"fornecedor.h"
+	"produto.h"
+	"compra.h"
+	"relatorios.h"
+
+1614516507 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\printoutput.h
+	<stdio.h>
+	<string.h>
+
+1614598406 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\printoutput.c
+	"printOutput.h"
+
+1616588656 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\cliente.h
+
+1616545923 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\cliente.c
+	<stdio.h>
+	<string.h>
+	"cliente.h"
+	"funcGerais.h"
+	"entradaSaida.h"
+
+1616546323 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\funcgerais.c
+	<string.h>
+	<stdio.h>
+	<time.h>
+	"funcGerais.h"
+
+1616588651 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\funcgerais.h
+
+1616589059 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\vendedor.h
+
+1616589058 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\vendedor.c
+	<stdio.h>
+	<string.h>
+	"vendedor.h"
+	"funcGerais.h"
+	"entradaSaida.h"
+
+1615938393 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\entradasaida.h
+
+1616508640 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\entradasaida.c
+	<stdio.h>
+	"entradaSaida.h"
+	"funcGerais.h"
+
+1617364953 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\fornecedor.c
+	<stdio.h>
+	<string.h>
+	"fornecedor.h"
+	"funcGerais.h"
+	"entradaSaida.h"
+
+1617364953 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\fornecedor.h
+
+1616588826 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\produto.c
+	<stdio.h>
+	<string.h>
+	"produto.h"
+	"funcGerais.h"
+	"entradaSaida.h"
+
+1616587287 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\produto.h
+
+1616540957 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\carrinho_tad.c
+	"carrinho_tad.h"
+	<stdlib.h>
+
+1616588728 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\carrinho_tad.h
+
+1616590475 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\compra.c
+	<stdio.h>
+	<string.h>
+	"compra.h"
+	"carrinho_tad.h"
+	"funcGerais.h"
+	"entradaSaida.h"
+	"fornecedor.h"
+	"vendedor.h"
+	"cliente.h"
+	"produto.h"
+	"notas.h"
+
+1616588722 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\compra.h
+	"carrinho_tad.h"
+
+1616550636 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\notas.h
+
+1616588785 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\notas.c
+	<stdio.h>
+	<string.h>
+	"notas.h"
+	"funcGerais.h"
+	"produto.h"
+	"vendedor.h"
+	"cliente.h"
+
+1616588877 c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\relatorios.h
+
+1616590030 source:c:\users\vinícius\desktop\curso\técnico\segundo período\lógoca de programação ii\trabalhos\trabalho_02\segundotrabalhopratico\relatorios.c
+	<stdio.h>
+	<string.h>
+	"relatorios.h"
+	"entradaSaida.h"
+	"funcGerais.h"
+	"notas.h"
+	"vendedor.h"
+	"cliente.h"
+	"produto.h"
+

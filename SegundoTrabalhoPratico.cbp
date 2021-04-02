@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SegundoTrabalhoPratico" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SegundoTrabalhoPratico" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SegundoTrabalhoPratico" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="carrinho_tad.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="carrinho_tad.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="cliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cliente.h" />
+		<Unit filename="compra.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="compra.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="entradaSaida.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="entradaSaida.h" />
+		<Unit filename="fornecedor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fornecedor.h" />
+		<Unit filename="funcGerais.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcGerais.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="notas.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="notas.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="produto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="produto.h" />
+		<Unit filename="relatorios.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="relatorios.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="vendedor.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="vendedor.h">
+			<Option target="Debug" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
